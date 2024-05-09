@@ -32,6 +32,8 @@ public class TableNames {
 	public static final String FORMANDOS = "elr_formandos";
 	public static final String QUIZZES = "elr_quizzes";
 	public static final String SESSOES = "elr_sessoes";
+	public static final String FORMADORES = "elr_formadores";
+	public static final String FORMADORES_EXT = "elr_formadores_ext";
 	
 	//TYPES
 	public static final String TIPOS_AGENTE = "tipos_agente";
@@ -51,5 +53,4 @@ public class TableNames {
 	//UTIL
 	public static final String NACIONALIDADES = "ut_nacionalidades";
 	public static final String ZONAS = "ut_zonas";
-
 }
